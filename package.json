@@ -1,0 +1,25 @@
+{
+  "name": "@murajun1978/hygen-react-typescript",
+  "version": "0.1.0",
+  "description": "A hygen template for React with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murajun1978/hygen-react-typescript.git"
+  },
+  "keywords": [
+    "hygen",
+    "template",
+    "react",
+    "typescript"
+  ],
+  "author": "murajun1978",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/murajun1978/hygen-react-typescript/issues"
+  },
+  "homepage": "https://github.com/murajun1978/hygen-react-typescript#readme"
+}
