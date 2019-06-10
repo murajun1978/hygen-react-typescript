@@ -1,5 +1,5 @@
 # hygen-react-typescript
-> A Hygen template for React with TypeScript
+> A hygen template for React with TypeScript
 
 ## Requirement
 - [hygen](https://github.com/jondot/hygen)
